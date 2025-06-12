@@ -8,9 +8,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "discord.js": "^14.19.3",
     "dotenv": "^16.5.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jantjan/hotbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jantjan/hotbot/issues"
+  },
+  "homepage": "https://github.com/jantjan/hotbot#readme",
+  "description": ""
 }
